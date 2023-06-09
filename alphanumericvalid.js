@@ -32,4 +32,4 @@ function alphanumeric(string){
     
   }
 
-console.log(alphanumeric("65CZqp vHlBDuPlo"))
+console.log(alphanumeric("65CZqpvHlBDuPlo"))
